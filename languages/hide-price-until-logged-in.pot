@@ -1,0 +1,23 @@
+# Hides WooCommerce product prices until the user is logged in.
+# Copyright (C) 2025 Plugin Pal.
+# This file is distributed under the same license as the PACKAGE package.
+# PLUGIN PAL <support@pluginpal.app>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-22 12:52+0000\n"
+"Last-Translator: Plugin Pal <support@pluginpal.app>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+#: /tmp/hide-price-until-logged-in/hide-price-until-logged-in.php:33
+msgid "Hide Price Settings"
+msgstr ""
+
+#: /tmp/hide-price-until-logged-in/hide-price-until-logged-in.php:34
+msgid "Hide Price"
+msgstr ""
